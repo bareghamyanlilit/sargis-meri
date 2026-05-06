@@ -11,7 +11,7 @@ export const metadata: Metadata = {
     siteName: "Sargis & Meri",
     images: [
       {
-        url: "https://sargis-meri.vercel.app/first.jpg",
+        url: "https://sargis-meri.vercel.app/arajin.jpg",
         width: 1200,
         height: 630,
       },

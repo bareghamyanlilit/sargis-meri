@@ -68,7 +68,7 @@ export default function Home() {
         <div
           className="min-h-dvh text-[#F2F2F2]  max-w-xl m-auto bg-cover  bg-no-repeat  bg-center  text-vrayi flex flex-col items-center justify-end text-center p-8 "
           style={{
-            backgroundImage: "url('/first.jpg')",
+            backgroundImage: "url('/arajin.jpg')",
           }}
         >
           <h1 className=" text-[#000000] text-5xl mb-10 FontMassis">
