@@ -71,7 +71,7 @@ export default function Home() {
             backgroundImage: "url('/arajin.jpg')",
           }}
         >
-          <h1 className=" text-[#000000] text-5xl mb-10 FontMassis">
+          <h1 className=" text-[#000000] text-[50px] mb-10 FontMassis">
             {text.firstwho}
           </h1>
         </div>
