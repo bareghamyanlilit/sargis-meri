@@ -124,7 +124,7 @@ export default function Home() {
         </section>
 
         {/* 3 img */}
-        <div className="px-6 my-20">
+        <div className="px-6 mt-20 mb-10">
           <div
             className="w-full h-110  bg-center no-repeat bg-cover rounded-[10px]"
             style={{
@@ -134,7 +134,7 @@ export default function Home() {
         </div>
         <Program />
 
-        <section className="text-center  px-2 pb-12">
+        <section className="text-center font-bold  px-2 pb-12">
           <motion.h2
             {...anim}
             className="relative z-1 FontMassis my-4 text-vrayi text-2xl"
@@ -147,7 +147,7 @@ export default function Home() {
         </section>
 
         {/* text info */}
-        <section className="text-center  px-2 pb-12">
+        <section className="text-center font-bold px-2 pb-12">
           <motion.h2
             {...anim}
             className="relative z-1 FontMassis my-4 text-vrayi text-2xl"
