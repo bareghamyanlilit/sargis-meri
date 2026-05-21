@@ -17,7 +17,7 @@ export const programImgs=['/ekexeci.jpg','/restoran.jpg']
 export const program = [
   {
     src: "/loc1.png",
-    time: "11:00",
+    time: "12:00",
     title: "Փեսայի տուն",
     address: "Գուսան Շերամ 39",
   },
